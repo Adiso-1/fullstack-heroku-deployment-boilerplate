@@ -20,7 +20,7 @@ Or with git clone:
 ```sh
 git clone https://github.com/Adiso-1/fullstack-boilerplate.git
 ```
-Clear the remote:
+And then clear the remote:
 
 ```sh
 git remote rm origin
