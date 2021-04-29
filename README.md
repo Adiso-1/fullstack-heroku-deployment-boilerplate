@@ -20,6 +20,11 @@ Or with git clone:
 ```sh
 git clone https://github.com/Adiso-1/fullstack-boilerplate.git
 ```
+Clear the remote:
+
+```sh
+git remote rm origin
+```
 
 Then, install the dependencies from the client-side & the server-side.
 
